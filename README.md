@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arhangelov&label=Profile%20views&color=0e75b6&style=flat" alt="arhangelov" /> </p>
 
-- 🔭 I’m currently working on [to-do-list](https://github.com/Arhangelov/to-do-list)
+- 🔭 I’m currently working on [calculator-by-wds](https://github.com/Arhangelov/calculator-by-wds)
 
 - 🌱 I’m currently learning **typescript, bootstrap**
 
