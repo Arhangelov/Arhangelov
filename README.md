@@ -23,7 +23,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arhangelov&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Arhangelov&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub 
 ![](https://github-profile-trophy.vercel.app/?username=Arhangelov&theme=nord&no-frame=true&no-bg=true&margin-w=4)
 
 
