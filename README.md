@@ -3,8 +3,6 @@
 <h3 align="center">Currently looking for an intern/junior frontend development job in Sofia</h3>
 <img align="right" alt="Coding" width="300" src="https://64.media.tumblr.com/9185c4f53a8946678eb124c0ec56713e/ee789441904f76d8-2f/s540x810/0d5bf094ce38ce57f83f548303bd1ffe45e7dcf5.gifv">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arhangelov&label=Profile%20views&color=0e75b6&style=flat" alt="arhangelov" /> </p>
-
 - 🔭 I’m currently working on [calculator-by-wds](https://github.com/Arhangelov/calculator-by-wds)
 
 - 🌱 I’m currently learning **typescript, bootstrap**
