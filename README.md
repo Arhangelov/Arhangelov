@@ -5,6 +5,8 @@
 #  🙋🏻‍♂️  Profile Information:
 <img align="right" alt="Coding" width="260" src="https://64.media.tumblr.com/9185c4f53a8946678eb124c0ec56713e/ee789441904f76d8-2f/s540x810/0d5bf094ce38ce57f83f548303bd1ffe45e7dcf5.gifv">
 
+- <img width="19" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg">  Code Wars Rank <img src="https://www.codewars.com/users/Arhangelov/badges/micro">
+
 - 🔭 I’m currently working on [calculator-by-wds](https://github.com/Arhangelov/calculator-by-wds)
 
 - 🌱 I’m currently learning **typescript, bootstrap**
