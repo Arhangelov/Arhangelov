@@ -7,7 +7,7 @@
 
 - <img width="19" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg">  Codewars rank <img src="https://www.codewars.com/users/Arhangelov/badges/micro">
 
-- 🔭 I’m currently working on [calculator-by-wds](https://github.com/Arhangelov/calculator-by-wds)
+- 🔭 I’m currently working on [omakase-sushi](https://github.com/Arhangelov/omakase-sushi)
 
 - 🌱 I’m currently learning **typescript, bootstrap**
 
