@@ -7,7 +7,7 @@
 
 - <img width="19" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg">  Codewars rank <img src="https://www.codewars.com/users/Arhangelov/badges/micro">
 
-- 🔭 I’m currently working on [omakase-sushi](https://github.com/Arhangelov/omakase-sushi)
+- 🔭 I’m currently working on [omakase-sushi](https://github.com/Arhangelov/omakase-restaurant)
 
 - 🌱 I’m currently learning ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
